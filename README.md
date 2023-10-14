@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Matheus Hessel 🖐️
 
 <a href="https://github.com/matheushessel/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheushessel&show_icons=true&theme=onedark&locale=pt-br" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matheushessel&show_icons=true&theme=onedark&locale=pt-br" />
 </a>
 <a href="https://github.com/matheushessel/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheushessel&layout=compact&langs_count=8&card_width=320&theme=onedark&locale=pt-br" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheushessel&layout=compact&langs_count=8&card_width=320&theme=onedark&locale=pt-br" />
 </a>
 
 ## Tecnologias que venho usando e estudando
